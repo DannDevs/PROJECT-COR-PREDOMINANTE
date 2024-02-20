@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6onlSv2xFN+2fzPC1SsholUK+NH0JTsHioh9srG3138KZuScGp6R2SC4cBIyYYz+6cH+ovlbIfx/E1o9L8fvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danig\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danig\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\danig\\.nuget\\packages\\sixlabors.imagesharp\\1.0.3\\sixlabors.imagesharp.1.0.3.nupkg.sha512",
+    "C:\\Users\\danig\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
